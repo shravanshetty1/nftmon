@@ -3,8 +3,6 @@
 
 ## Scope
 ```
-Router Protocol
-
 You are building a decentralized application that allows users to create and transfer unique
 digital assets. Each asset is represented by a non-fungible token (NFT) that is stored in a
 smart contract called the NFT contract.
