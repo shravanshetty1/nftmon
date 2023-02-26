@@ -50,7 +50,7 @@ serde = { version = "1.0.145", default-features = false, features = ["derive"] }
 thiserror = { version = "1.0.31" }
 
 cw721 = "0.16.0"
-cw721-base = "0.16.0"
+cw721-base = { version = "0.16.0", features = ["library"] }
 
 [dev-dependencies]
 cw-multi-test = "0.16.2"
